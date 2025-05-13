@@ -43,6 +43,23 @@
         }
       ],
       "createdAt": "2025-05-12T10:47:10.503Z"
+    },
+    {
+      "id": "e6058059-fbe1-4c32-b7ba-92f6ac6e0633",
+      "question": "Was TechCruch insightful?",
+      "options": [
+        {
+          "id": "042a8012-a761-4cfa-aeb8-9592a2810805",
+          "text": "Yes",
+          "votes": 4
+        },
+        {
+          "id": "bb390828-1434-48e6-ba65-60aaf8a2bd36",
+          "text": "No",
+          "votes": 0
+        }
+      ],
+      "createdAt": "2025-05-13T19:27:32.453Z"
     }
   ]
 }
